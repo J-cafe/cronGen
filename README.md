@@ -1,6 +1,6 @@
 CronGen
 =======
 
-This is is a client side utility to help building cron expressions.
+中文版cron表达式构建器
 
-Supports up to bootstrap 3
+支持 bootstrap 3
